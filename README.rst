@@ -18,10 +18,16 @@ https://shuup.com/
 TL;DR;
 ------
 
+To setup the project do the following steps:
+
 .. code:: sh
+
+    # Setup python env
     sudo apt-get install python3-venv
     python3 -m venv venv
     source venv/bin/activate
+
+    # Setup node env
 
 Copyright
 ---------
