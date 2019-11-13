@@ -11,10 +11,17 @@
 
 Shuup
 =====
-
 Shuup is an Open Source E-Commerce Platform based on Django and Python.
 
 https://shuup.com/
+
+TL;DR;
+------
+
+.. code:: sh
+    sudo apt-get install python3-venv
+    python3 -m venv venv
+    source venv/bin/activate
 
 Copyright
 ---------
